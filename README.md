@@ -9,4 +9,4 @@ Interactive features:
 -	Toggle between line and bar chart views
 -	Filter by beverage type and sales channel
 
-This project helped me practice data storytelling and building user-friendly dashboards
+This project helped me practice data storytelling and building user-friendly dashboards.
