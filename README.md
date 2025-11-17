@@ -1,5 +1,7 @@
 This report visualizes alcoholic beverage distribution in Montgomery County, Maryland from 2017–2020 (data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br/about_data).
 
+Screenshot 2025-11-17 231742.png
+
 Key insights:
 -	Trends over the years (line or bar chart)
 -	Top 5 products and suppliers
